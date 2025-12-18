@@ -33,6 +33,7 @@ onMounted(loadNotes);
 
 <template>
   <div style="max-width: 560px; margin: 40px auto; font-family: system-ui">
+  <h1>Bài kiểm tra -MSSV- Ca2 </h1>
     <h2>Notes</h2>
 
     <div style="display: flex; gap: 8px">
